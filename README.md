@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SHARTOX
+- 👀 C++ & Java Graphic and Games Developer
+- 🌱 I’m currently learning OpenGL
+- 📫 Discord :"SHARTOX#5425"
